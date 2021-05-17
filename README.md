@@ -17,5 +17,5 @@ Livrables :
 - Un rapport d'optimisation comprenant une comparaison des *-* résulats (y compris vitesse de chargement et d'accessibilité);
 
 Lien GitHub pages :
-[link]https://jeanmarcj.github.io/OC_4_starting_website/
+[Lien GitHub Pages](https://jeanmarcj.github.io/OC_4_starting_website/)
 
